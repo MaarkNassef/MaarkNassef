@@ -1,6 +1,6 @@
 <h2> Hi, I'm Mark. 🖐&nbsp; <div align='center'><a href="https://www.linkedin.com/in/mark-nassef/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Mark Nassef's LinkedIn Profile" height="25" width="25">
-  </a> &nbsp; <a href="mailto:maark.nassef@gmail.com.com"><img width="30" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></a></div>
+  </a> &nbsp; <a href="mailto:maark.nassef@gmail.com"><img width="30" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></a></div>
 </h2>
 
 <h3> 👨🏻 About Me </h3>
