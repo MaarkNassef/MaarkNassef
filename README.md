@@ -22,13 +22,9 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 
-<!--
-
 - 🛢 &nbsp; Oracle Database | Firebase
 
 - 🖥 &nbsp; Adobe Photoshop | Adobe XD
-
--->
 
 
 
