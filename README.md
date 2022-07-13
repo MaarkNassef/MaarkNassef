@@ -36,12 +36,19 @@
 
 <h3>🖥 Projects</h3>
 
-- 💻 &nbsp; [PopMap Online Store (Web development)](https://github.com/MaarkNassef/PopMap)
+- 🌐 &nbsp; [PopMap Online Store (Web development)](https://github.com/MaarkNassef/PopMap)
 
-- 🎡 &nbsp; [Fantasy Premier league (Game)](https://github.com/MaarkNassef/MiniFootballFantasy)
+- ⚽ &nbsp; [Fantasy Premier league (Game)](https://github.com/MaarkNassef/MiniFootballFantasy)
 
 - 📱 &nbsp; [Invisible Chatting Application (Android development)](https://github.com/MaarkNassef/Invisible)
 
+<!--
+- 💡 &nbsp; [N-Puzzle solver](https://github.com/MaarkNassef/N_Puzzle)
+
+- 💻 &nbsp; [Parallel Background Subtraction](https://github.com/MaarkNassef/ParallelBackgroundSubtraction)
+
+- 🔐 &nbsp; [Security Package](https://github.com/MaarkNassef/SecurityPackage)
+-->
 
 
 <hr>
