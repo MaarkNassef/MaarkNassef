@@ -30,7 +30,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; PowerBi
+- 🔧 &nbsp; Become a Data Analyst Path -LinkedIn Learning-
 
 
 
