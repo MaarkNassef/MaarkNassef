@@ -46,10 +46,7 @@
 
 - 💻 &nbsp; [Parallel Background Subtraction](https://github.com/MaarkNassef/ParallelBackgroundSubtraction)
 
-<!--
-
 - 🔐 &nbsp; [Security Package](https://github.com/MaarkNassef/SecurityPackage)
--->
 
 
 <hr>
@@ -58,7 +55,7 @@
 
 <br/><br/>
 
-[![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaarkNassef&show_icons=true)](https://github.com/MaarkNassef)
+[![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaarkNassef&show_icons=false)](https://github.com/MaarkNassef)
 
 <br/>
 
