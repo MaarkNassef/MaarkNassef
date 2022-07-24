@@ -42,10 +42,11 @@
 
 - 📱 &nbsp; [Invisible Chatting Application (Android development)](https://github.com/MaarkNassef/Invisible)
 
-<!--
 - 💡 &nbsp; [N-Puzzle solver](https://github.com/MaarkNassef/N_Puzzle)
 
 - 💻 &nbsp; [Parallel Background Subtraction](https://github.com/MaarkNassef/ParallelBackgroundSubtraction)
+
+<!--
 
 - 🔐 &nbsp; [Security Package](https://github.com/MaarkNassef/SecurityPackage)
 -->
