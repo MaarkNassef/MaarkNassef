@@ -22,7 +22,7 @@
 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript | Flask
 
-- 🛢 &nbsp; Oracle Database | Firebase
+- 🛢 &nbsp; Oracle Database | Firebase | SQLite3
 
 - 🖥 &nbsp; Adobe Photoshop | Adobe XD
 
