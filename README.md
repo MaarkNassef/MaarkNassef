@@ -27,11 +27,11 @@
 - 🖥 &nbsp; Adobe Photoshop | Adobe XD
 
 
-
+<!--
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; Become a Data Analyst Path -LinkedIn Learning-
-
+-->
 
 
 <h3>🖥 Projects</h3>
