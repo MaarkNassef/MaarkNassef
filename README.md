@@ -51,7 +51,9 @@
 - 🌐 &nbsp; [Pick Book](https://github.com/MaarkNassef/ITI-Project)
 
 - 🖨 &nbsp; [PDFGame](https://github.com/MaarkNassef/PDFGame)
-
+<!--
+- 🖨 &nbsp; [Pick Book (Cyber Security Project Edition)](https://github.com/MaarkNassef/CyberSecurityProject)
+-->
 <hr>
 
 
