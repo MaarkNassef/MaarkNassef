@@ -45,9 +45,9 @@
 - 💡 &nbsp; [N-Puzzle solver](https://github.com/MaarkNassef/N_Puzzle)
 
 - 💻 &nbsp; [Parallel Background Subtraction](https://github.com/MaarkNassef/ParallelBackgroundSubtraction)
-
+<!--
 - 🔐 &nbsp; [Security Package](https://github.com/MaarkNassef/SecurityPackage)
-
+-->
 - 🌐 &nbsp; [Pick Book](https://github.com/MaarkNassef/ITI-Project)
 
 - 🖨 &nbsp; [PDFGame](https://github.com/MaarkNassef/PDFGame)
