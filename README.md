@@ -58,6 +58,8 @@
 
 - 🛒 &nbsp; [E-Shop](https://github.com/MaarkNassef/E-Shop)
 
+- 👨‍🎓 &nbsp; [HR Assistant (Graduation Project)](https://github.com/MaarkNassef/GraduationProject)
+
 <hr>
 
 
