@@ -10,19 +10,20 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 - 🎓 &nbsp; Studying Computer Science at Ain Shams University.
-
+<!--
 - 🌱 &nbsp; Learning about Data Science.
+-->
 
 
 <h3>🛠 Tech Stack</h3>
 
 
 
-- 💻 &nbsp; Python | R | Java | C++ | C | C# | SQL 
+- 💻 &nbsp; Python | Java | C++ | C | C# | SQL | R 
 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript | Flask
+- 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript | Flask | ASP.NET
 
-- 🛢 &nbsp; Oracle Database | Firebase | SQLite3
+- 🛢 &nbsp; Oracle Database | MySQL | Firebase database | SQLite3
 
 - 🖥 &nbsp; Adobe Photoshop | Adobe XD
 
@@ -35,20 +36,21 @@
 
 
 <h3>🖥 Projects</h3>
-
+<!--
 - 🌐 &nbsp; [PopMap Online Store (Web development)](https://github.com/MaarkNassef/PopMap)
+-->
 
 - ⚽ &nbsp; [Fantasy Premier league (Game)](https://github.com/MaarkNassef/MiniFootballFantasy)
 
-- 📱 &nbsp; [Invisible Chatting Application (Android development)](https://github.com/MaarkNassef/Invisible)
+- 📱 &nbsp; [Invisible Anonymous Messaging App (Android development)](https://github.com/MaarkNassef/Invisible)
 
 - 💡 &nbsp; [N-Puzzle solver](https://github.com/MaarkNassef/N_Puzzle)
 
 - 💻 &nbsp; [Parallel Background Subtraction](https://github.com/MaarkNassef/ParallelBackgroundSubtraction)
-<!--
+
 - 🔐 &nbsp; [Security Package](https://github.com/MaarkNassef/SecurityPackage)
--->
-- 🌐 &nbsp; [Pick Book](https://github.com/MaarkNassef/ITI-Project)
+
+- 📖 &nbsp; [Pick Book](https://github.com/MaarkNassef/ITI-Project)
 
 - 🖨 &nbsp; [PDFGame](https://github.com/MaarkNassef/PDFGame)
 
