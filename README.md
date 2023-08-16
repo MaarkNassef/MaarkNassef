@@ -21,9 +21,11 @@
 
 - 💻 &nbsp; Python | Java | C++ | C | C# | SQL | R 
 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript | Flask | ASP.NET
+- ✨ &nbsp; HTML | CSS | Bootstrap | JavaScript 
 
-- 🛢 &nbsp; Oracle Database | MySQL | Firebase database | SQLite3
+- 🌐 &nbsp; Flask | ASP.NET
+
+- 🛢 &nbsp; Oracle Database | MySQL | Firebase database | SQL Server | SQLite3
 
 - 🖥 &nbsp; Adobe Photoshop | Adobe XD
 
@@ -61,6 +63,8 @@
 - 🛒 &nbsp; [E-Shop](https://github.com/MaarkNassef/E-Shop)
 
 - 👨‍🎓 &nbsp; [HR Assistant (Graduation Project)](https://github.com/MaarkNassef/GraduationProject)
+
+- 🐝 &nbsp; [BeeLog (ITI-Web Development(.Net) 120hrs.)](https://github.com/MaarkNassef/Beelog)
 
 <hr>
 
