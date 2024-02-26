@@ -9,7 +9,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science at Ain Shams University.
+- 🎓 &nbsp; Studied Computer Science at Ain Shams University.
 <!--
 - 🌱 &nbsp; Learning about Data Science.
 -->
@@ -19,11 +19,11 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | C# | SQL | R 
+- 💻 &nbsp; Python | Java | JavaScript | C# | C++ | C | R 
 
-- ✨ &nbsp; HTML | CSS | Bootstrap | JavaScript 
+- ✨ &nbsp; HTML | CSS | Bootstrap 
 
-- 🌐 &nbsp; Flask | ASP.NET
+- 🌐 &nbsp; Django | Flask | ASP.NET
 
 - 🛢 &nbsp; Oracle Database | MySQL | Firebase database | SQL Server | SQLite3
 
@@ -42,6 +42,20 @@
 - 🌐 &nbsp; [PopMap Online Store (Web development)](https://github.com/MaarkNassef/PopMap)
 -->
 
+- 👨‍🏫 &nbsp; [QuizAT (This project is currently under development)](https://github.com/MaarkNassef/QuizAT)
+
+- 🐝 &nbsp; [BeeLog (ITI-Web Development(.Net) 120hrs.)](https://github.com/MaarkNassef/Beelog)
+
+- 👨‍🎓 &nbsp; [HR Assistant (Graduation Project)](https://github.com/MaarkNassef/GraduationProject)
+
+- 🔐 &nbsp; [Pick Book (Cyber Security Project Edition)](https://github.com/MaarkNassef/CyberSecurityProject)
+
+- 🛒 &nbsp; [E-Shop](https://github.com/MaarkNassef/E-Shop)
+
+- 🔐 &nbsp; [Security Package](https://github.com/MaarkNassef/SecurityPackage)
+
+- 📖 &nbsp; [Pick Book](https://github.com/MaarkNassef/ITI-Project)
+
 - ⚽ &nbsp; [Fantasy Premier league (Game)](https://github.com/MaarkNassef/MiniFootballFantasy)
 
 - 📱 &nbsp; [Invisible Anonymous Messaging App (Android development)](https://github.com/MaarkNassef/Invisible)
@@ -50,21 +64,9 @@
 
 - 💻 &nbsp; [Parallel Background Subtraction](https://github.com/MaarkNassef/ParallelBackgroundSubtraction)
 
-- 🔐 &nbsp; [Security Package](https://github.com/MaarkNassef/SecurityPackage)
-
-- 📖 &nbsp; [Pick Book](https://github.com/MaarkNassef/ITI-Project)
-
 - 🖨 &nbsp; [PDFGame](https://github.com/MaarkNassef/PDFGame)
 
 - 🎥 &nbsp; [YouTube Downloader](https://github.com/MaarkNassef/YouTubeDownloader)
-
-- 🔐 &nbsp; [Pick Book (Cyber Security Project Edition)](https://github.com/MaarkNassef/CyberSecurityProject)
-
-- 🛒 &nbsp; [E-Shop](https://github.com/MaarkNassef/E-Shop)
-
-- 👨‍🎓 &nbsp; [HR Assistant (Graduation Project)](https://github.com/MaarkNassef/GraduationProject)
-
-- 🐝 &nbsp; [BeeLog (ITI-Web Development(.Net) 120hrs.)](https://github.com/MaarkNassef/Beelog)
 
 <hr>
 
